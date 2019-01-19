@@ -1,0 +1,154 @@
+#time{
+    height: 50px;
+    background-color: #EEEEEE;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    font-family: "Adobe 楷体 Std R";
+    color: black;
+    font-size: 32px;
+}
+#time_left{
+    width: 100px;
+    text-align: center;
+}
+#time_conter{
+    flex:1;
+}
+#time_right{
+    flex:1;
+    /*margin-right: 0px;*/
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 0px;
+    flex-flow: row;
+}
+#signal_area{
+    width: 40px;
+}
+#battery_area{
+    height: 50px;
+    width: 61px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 3px;
+}
+#battery_body{
+    height: 25px;
+    width: 58px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-flow: row;
+}
+#battery_head{
+    height: 10px;
+    width: 3px;
+    background-color: black;
+}
+#battery_inside{
+    height: 20px;
+    width: 40px;
+    background-color: black;
+    margin-right: 2px;
+    /*display: flex;*/
+    /*justify-content: flex-end;*/
+    /*align-items: center;*/
+    /*flex-flow: row;*/
+}
+#signal {
+    height: 36px;
+    background-color: #313131;
+
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+
+    color: white;
+
+    font-size: 12px;
+
+}
+
+#signal_left {
+    flex: 1;
+    height: 36px;
+
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+
+#signal_center{
+    width: 50px;
+    height: 36px;
+}
+
+#signal_right {
+    flex: 1;
+    height: 36px;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+
+
+
+
+
+#signal_area {
+    width: 50px;
+    height: 16px;
+    display: flex;
+    align-items: flex-end;
+    margin-right: 10px;
+
+
+}
+
+#signal_area div {
+
+    width: 10px;
+
+    margin-left: 4px;
+    border-radius: 1px;
+    margin-bottom: -4px;
+}
+#signal_area div:nth-child(1) {
+    height: 3px;
+}
+#signal_area div:nth-child(2) {
+    height: 7px;
+}
+#signal_area div:nth-child(3) {
+    height: 13px;
+}
+#signal_area div:nth-child(4) {
+    height: 19px;
+}
+#signal_area div:nth-child(5) {
+    height: 25px;
+}
+
+.signal-ok {
+    background-color: black;
+}
+
+.signal-lose {
+    background-color: grey;
+}
+#clock_area{
+    height: 50px;
+    width: 50px;
+    background-image: url("../img/闹铃.svg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: center;
+
+}

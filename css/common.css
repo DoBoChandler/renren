@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Adobe Caslon Pro Bold";
+}
+.container{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    /*background-color: blue;*/
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+}
+.border{
+    border: darkblue 1px solid;
+}
+.xy-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    width:  200px;
+    height: 100px;
+}
+/*#time{*/
+    /*height: 50px;*/
+    /*background-color: #E91E63;*/
+/*}*/
+/*#menus{*/
+    /*height: 60px;*/
+    /*background-color: coral;*/
+/*}*/
+/*#turnfigure{*/
+    /*!*height: 30%;*!*/
+    /*background-color: chartreuse;*/
+    /*flex: 1;*/
+/*}*/
+/*#good{*/
+    /*height: 300px;*/
+    /*background-color: gainsboro;*/
+    /*flex: 1;*/
+/*}*/
+/*#hotshow{*/
+    /*!*height: 30px;*!*/
+    /*background-color: darkolivegreen;*/
+    /*flex: 0.2;*/
+/*}*/
+/*#recommend{*/
+    /*!*height: 400px;*!*/
+    /*background-color: aquamarine;*/
+    /*flex: 1.8;*/
+/*}*/
+/*#main{*/
+    /*height: 80px;*/
+    /*background-color: cornflowerblue;*/
+/*}*/

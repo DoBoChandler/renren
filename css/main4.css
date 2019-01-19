@@ -1,0 +1,105 @@
+#main4{
+    height: 60px;
+    background-color: cornflowerblue;
+    /*border: red solid 1px;*/
+    width: 100%;
+    display: flex;
+    flex-flow: row ;
+    justify-content: space-between;
+    float: left;
+}
+.f {
+    height: 60px;
+    /*width: 100px;*/
+    color: white;
+    display: flex;
+    flex-flow: row ;
+    justify-content: space-between;
+}
+
+
+#y1 {
+    background-color: white;
+    background-image: url("../img/b2d746c582ad1d2cbbec61e8ca04942.png");
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: center;
+    flex:1
+}
+/*.message {*/
+/*height: 14px;*/
+/*width: 14px;*/
+/*background-color: #E91E63;*/
+/*position: absolute;*/
+/*left: 80px;*/
+/*top: 685px;*/
+
+/*border-radius: 50%;*/
+/*}*/
+
+#y2 {
+    background-color: white;
+    background-image: url("../img/3378761d9acb95515382c4b7606ddd8.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    flex:1
+}
+
+#y3 {
+    background-color: white;
+    background-image: url("../img/f823ae8e137db1e2d8fee96791345fd.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    flex:1
+}
+
+#y4 {
+    background-color: white;
+    background-image: url("../img/0c3fbf9997d46e2d93ae10fb825961a.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    flex:1
+}
+#main_zi{
+    height: 40px;
+    display: flex;
+    flex-flow: row ;
+    justify-content: space-between;
+    /*background-color: #E91E63;*/
+}
+/*.fa {*/
+/*height: 30px;*/
+/*!*width: 100px;*!*/
+/*color: white;*/
+/*display: flex;*/
+/*flex-flow: row ;*/
+/*justify-content: space-between;*/
+/*}*/
+#d1{
+    /*height: 30px;*/
+    width: 25%;
+    background-color: white;
+    font-size: 30px;
+    text-align: center;
+}
+#d2{
+    flex: 1;
+    background-color: white;
+    font-size: 30px;
+    text-align: center;
+}
+#d3{
+    flex: 1;
+    background-color: white;
+    font-size: 30px;
+    text-align: center;
+}
+#d4{
+    flex: 1;
+    background-color: white;
+    font-size: 30px;
+    text-align: center;
+}

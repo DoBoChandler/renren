@@ -1,0 +1,79 @@
+#mingpian{
+    height: 390px;
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    background-image: url("../img/5257e3b5d1acb99a13fb74a031c1436.jpg");
+}
+#mingpian_zuo{
+    height: 100%;
+    width: 60%;
+}
+#mingzi{
+    height: 40%;
+    width: 100%;
+    text-align: center;
+    font-size: 70px;
+    color: white;
+    margin-top: 80px;
+    margin-left: -50px;
+}
+#qianming{
+    height: 30%;
+    width: 100%;
+    margin-top: -26px;
+    margin-left: 101px;
+    color: white;
+    font-size: 20px;
+}
+#qiandao{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+#level{
+    height: 20px;
+    width:50px;
+    background-color:deepskyblue;
+    color: white;
+    /*border-radius: 50px;*/
+    text-align: center;
+    margin-left: 35px;
+    margin-top: -45px;
+}
+#yiqiandao{
+    height: 40px;
+    width:150px;
+    border-radius: 50px;
+    background-color: deepskyblue;
+    text-align: center;
+    font-size: 21px;
+    line-height: 40px;
+    margin-left: -70px;
+    margin-top: -60px;
+    color: white;
+}
+#xiaoxi{
+    height: 40px;
+    width:75px;
+    border-radius: 50px;
+    background-color: lightgrey;
+    text-align: center;
+    font-size: 21px;
+    line-height: 40px;
+    color: white;
+    margin-top: -60px;
+}
+#mingqian_you{
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    margin-top: 65px;
+    margin-right: 80px;
+    background-image: url("../img/0b3e491bbe57934346b9b36855eef0a.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

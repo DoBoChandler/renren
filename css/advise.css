@@ -1,0 +1,118 @@
+#advise{
+    flex: 4;
+    overflow: scroll;
+}
+#drama1{
+    height:50px ;
+    width:71%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+#Ama{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 23px;
+}
+#Br{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 19px;
+    color: #313131;
+}
+#jap{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 19px;
+    color: #313131;
+}
+#zongyi{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 19px;
+    color: #313131;
+}
+#advise1{
+    height: 400px;
+    width: 100%;
+    background-image: url("../img/5b9f9f96db0049344e5ca78c1d15a8c.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#drame2{
+    height:50px ;
+    width:71%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+#xinjubang{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 23px;
+}
+#reyibang{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 19px;
+    color: #313131;
+}
+#lanfanqie{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 19px;
+    color: #313131;
+}
+#xiaozhongbang{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 19px;
+    color: #313131;
+}
+#advise2{
+    height: 400px;
+    width: 100%;
+    background-image: url("../img/8a69ebb7378cf58577611c7d483daad.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#drame3{
+    height:50px ;
+    width:71%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+#ouzhouju{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 23px;
+}
+#taijubang{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 19px;
+    color: #313131;
+}
+#qitaju{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 19px;
+    color: #313131;
+}
+#jilupian{
+    margin-top:8px ;
+    text-align: center;
+    font-size: 19px;
+    color: #313131;
+}
+#advise3{
+    height: 400px;
+    width: 100%;
+    background-image: url("../img/37948549ac4cfe88272b6251dbbb824.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,28 @@
+#turnfigure {
+    height: 270px;
+    width: 800px;
+    /*background-image: url("../img/6450d26c845f63780fe8b77f7705ca4.jpg");*/
+    background-position: center;
+    background-size: 99.6%;
+
+    /*height: 270px;*/
+    /*width: 800px;*/
+    /*border: 1px solid crimson;*/
+
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    /*background-position: center;*/
+}
+/*#turnfigure{*/
+    /*!*!*height: 30%;*!*!*/
+    /*!*!*background-color: chartreuse;*!*!*/
+    /*!*!*flex: 1;*!*!*/
+/*!*}*!*/
+/*!*#turnfigure{*!*/
+    /*!*height: 270px;*!*/
+    /*!*width: 800px;*!*/
+    /*!*!*background-image: url("../img/6450d26c845f63780fe8b77f7705ca4.jpg");*!*!*/
+    /*!*background-position: center;*!*/
+    /*!*background-size: 99.6%;*!*/
+
+/*!*}*!*/

@@ -1,0 +1,91 @@
+#renwu{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    /*background-color: #313131;*/
+
+}
+#xunzhang{
+    height: 125px;
+    width: 180px;
+    border-bottom: #E0E0E0;
+    border: #BDBDBD;
+    box-shadow: 0px 5px 5px#E0E0E0;
+    margin-left: 55px;
+    margin-top: 25px;
+    border-top: lightgrey;
+}
+#chengjiuzhi{
+    height: 125px;
+    width: 180px;
+    border-bottom: #E0E0E0;
+    border: #BDBDBD;
+    box-shadow: 0px 5px 5px#E0E0E0;
+    margin-left: 65px;
+    margin-top: 25px;
+    border-top: lightgrey;
+    margin-right: 30px;
+}
+#renwukuang{
+    height: 125px;
+    width: 180px;
+    border-bottom: #E0E0E0;
+    border: #BDBDBD;
+    box-shadow: 0px 5px 5px#E0E0E0;
+    margin-left: 40px;
+    margin-top: 25px;
+    border-top: lightgrey;
+    margin-right: 55px;
+}
+#xz{
+    font-size: 25px;
+    color: #BDBDBD;
+    margin-left: 62px;
+    margin-top: 26px;
+}
+#shu{
+    font-size: 25px;
+    color: black;
+    margin-left: 82px;
+    margin-top: 14px;
+}
+#chengjiu{
+    margin-left: 40px;
+    font-size: 25px;
+    color: black;
+    margin-top: 13px;
+}
+/*#history{*/
+     /*height: 140px;*/
+     /*width: 100%;*/
+
+ /*}*/
+/*#his_top{*/
+    /*height: 40px;*/
+    /*width: 100%;*/
+    /*display: flex;*/
+    /*flex-flow: row;*/
+    /*justify-content: space-between;*/
+/*}*/
+/*#his_zi{*/
+    /*width:80%;*/
+    /*font-size:32px;*/
+    /*color: black;*/
+    /*margin-left: 30px;*/
+/*}*/
+/*#his_tu{*/
+    /*height: 100%;*/
+    /*width: 80px;*/
+    /*background-image: url("../img/箭头.svg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 60%;*/
+/*}*/
+/*#his_v{*/
+    /*height: 393px;*/
+    /*background-image: url("../img/24e459843bc9518d7d1b3c9b8c0ef33.png");*/
+    /*background-size: 100%;*/
+    /*background-repeat: no-repeat;*/
+    /*position: center;*/
+/*}*/

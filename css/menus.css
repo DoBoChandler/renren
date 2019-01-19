@@ -1,0 +1,43 @@
+#menus{
+    height: 60px;
+    background-color: #EEEEEE;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    /*border-bottom: lightgrey;*/
+    /*box-shadow: 0px 2px 2px gainsboro;*/
+}
+#menus_left{
+    height:100%;
+    width: 100%;
+    /*background-color: red;*/
+    display: inline-block;
+    flex-flow: row ;
+    justify-items: center;
+    justify-content: space-between;
+    overflow: scroll;
+    display: flex;
+    flex-flow: row;
+
+}
+#menus_right{
+    height: 60px;
+    width: 80px;
+    /*background-color: blanchedalmond;*/
+    background-image: url("../img/搜索 (1).svg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: center;
+}
+/*#list_area {*/
+    /*display: flex;*/
+    /*flex-flow: row;*/
+/*}*/
+.caidan{
+    height: 60px;
+    width: 200px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 30px;
+    /*border-right: 1px solid blue;*/
+}

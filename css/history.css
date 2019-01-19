@@ -1,0 +1,36 @@
+#history{
+    flex: 2;
+    overflow: scroll;
+    /*height: 400px;*/
+    width: 100%;
+
+}
+#his_top{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+#his_zi{
+    width:80%;
+    font-size:32px;
+    color: black;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#his_tu{
+    height: 100%;
+    width: 80px;
+    background-image: url("../img/箭头.svg");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    margin-top: 10px;
+}
+#his_v{
+    height: 393px;
+    background-image: url("../img/24e459843bc9518d7d1b3c9b8c0ef33.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: center;
+}

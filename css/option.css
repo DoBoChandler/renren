@@ -1,0 +1,117 @@
+#option{
+    height: 140px;
+    background-color: white;
+    flex: 1;
+    display: flex;
+    flex-flow: row;
+    /*border-bottom: gainsboro;*/
+    box-shadow:  0px 5px 5px #BDBDBD;
+}
+#zuo{
+    height: 160px;
+    width: 25%;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+#left2_yuan{
+    height: 99px;
+    width: 99px;
+
+    /*border-radius: 50%;*/
+    /*align-content: center;*/
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -10px;
+    background-image: url("../img/210e58cf523f4ee0e3a8ae2dbad3617.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+#left2_zi{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 60px;
+    margin-top:60px;
+}
+#zuozhong{
+    height: 160px;
+    width: 25%;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+#zuozhong_yuan{
+    height: 99px;
+    width: 99px;
+
+    /*border-radius: 50%;*/
+    /*align-content: center;*/
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -10px;
+    background-image: url("../img/b5164befcaf23387b21d6d0a2a701d9.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+#zuozhong_zi{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 70px;
+    margin-top:60px;
+}
+#youzhong{
+    height: 160px;
+    width: 25%;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+#youzhong_yuan{
+    height: 99px;
+    width: 99px;
+
+    /*border-radius: 50%;*/
+    /*align-content: center;*/
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -10px;
+    background-image: url("../img/bcaeb4e0bfe68f7872018087c20c356.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+#youzhong_zi{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 60px;
+    margin-top:60px;
+}
+#you{
+    height: 160px;
+    width: 25%;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+#right2_yuan{
+    height: 99px;
+    width: 99px;
+
+    /*border-radius: 50%;*/
+    /*align-content: center;*/
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -10px;
+    background-image: url("../img/219280e412e90978c91907d41575bc9.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+#right2_zi{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 60px;
+    margin-top:60px;
+}

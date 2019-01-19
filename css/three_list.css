@@ -1,0 +1,52 @@
+#three_list{
+    height: 100px;
+    width: 100%;
+    box-shadow: 1px 2px 2px #BDBDBD ;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+#list_menus{
+    height: 100px;
+    width: 50%;
+    display: flex;
+    flex-flow: row;
+    justify-content:space-around;
+}
+#guangchang{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    line-height: 100px;
+    font-size: 30px;
+}
+#jidi{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+    font-size: 25px;
+}
+#mingxing{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+    font-size: 25px;
+}
+#list_tubiao{
+    height: 100px;
+    width: 50%;
+    line-height: 100px;
+}
+#tubiao_1{
+    height: 45px;
+    width: 45px;
+    background-image: url("../img/菜单.svg");
+    display: flex;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 320px;
+}
